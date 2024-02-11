@@ -6,7 +6,7 @@
 <body>
   <nav>
 <p style="border:5px #6600cc ridge; width:50;">
-<big>НАВИГАЦИОННАЯ СИСТЕМА:
+НАВИГАЦИОННАЯ СИСТЕМА:
 <a href="#1">Школы на этапе строительства<font color="blue">*</font color>;<font color="white">000</font color></a>
 <a href="#2">Уже построеные школы<font color="green">*</font color>;<font color="white">000</font color></a>
 <a href="#3">Районы в которых требуется строительство школ<font color="orange">*</font color>;<font color="white">000</font color></a>
@@ -177,6 +177,5 @@
   <li>рассчитана на 925; обучаются 573</li>
   </ul>
 <img src="30.png" alt="13 шк" width="1000">
-</big>
 </body>
 </html>
